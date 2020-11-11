@@ -25,7 +25,7 @@ npm run dist
 cd dist && ls 
 ```
 
-If you're on Linux and have decided not to download the AppImage and instead build it from source for some forsaken reason, you need edit `./res/appimagekit-desmos.desktop` properly and move it to `.local/share/applications`.
+If you're on Linux and have decided not to download the AppImage and instead build it from source for some forsaken reason, you need edit `./res/appimagekit-desmos.desktop` properly and move it to `~/.local/share/applications`.
 
 
 ### Screenshots
