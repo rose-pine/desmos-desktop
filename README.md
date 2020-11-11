@@ -15,7 +15,6 @@ Building from source:
  - Node.js
  - Electron
  - npm
- - half a brain
 
 ### Instructions
 
