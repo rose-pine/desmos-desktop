@@ -29,3 +29,7 @@ If you're on Linux and have decided not to download the AppImage and instead bui
 ## Screenshots
 
 ![Desmos Desktop with Rosé Pine](https://i.imgur.com/ui3AKxn.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
